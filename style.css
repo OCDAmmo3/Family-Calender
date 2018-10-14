@@ -88,7 +88,11 @@ nav a:last-of-type {
   border-right: 1px solid white
 }
 main li img{
-  
+
   display: inline-block;
 
+}
+
+main p {
+  padding:8px;
 }
