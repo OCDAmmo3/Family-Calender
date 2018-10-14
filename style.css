@@ -87,3 +87,15 @@ nav a:hover {
 nav a:last-of-type {
   border-right: 1px solid white
 }
+
+main {
+  background: #1abc9c;
+  margin:30px;
+  margin-top:40px;
+  border:2px solid black
+}
+
+footer {
+  background: #666;
+
+}
